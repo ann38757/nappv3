@@ -2,7 +2,7 @@
   "name": "營養計算應用程式",
   "short_name": "營養計算",
   "description": "追蹤每日營養攝取的應用程式",
-  "start_url": "/nappv3/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
